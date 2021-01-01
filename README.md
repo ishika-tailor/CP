@@ -1,1 +1,2 @@
-# CP
+# Competitve Programming 
+**FAANG Problems**
